@@ -1,0 +1,5 @@
+print ("Name: Oluwakorede Adejoro")
+print ("Email: Anthonyadejoro@gmail.com")
+print ("Slack: AnthonyOA")
+print ("Track: Backend")
+print ("Course: Python")
